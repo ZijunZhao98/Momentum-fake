@@ -47,5 +47,24 @@
 #salutation{
   color: white;
   font-size: 38px;
+  display: flex;
+  align-self: center;
+  margin-top: 0px;
+}
+
+#quote{
+  color: white;
+  font-size: 18px;
   text-align: center;
+  display: flex;
+  align-self: center;
+}
+
+#line{
+  background-color: white;
+  margin: 0px auto;
+  overflow: hidden;
+  padding: 0px auto;
+  width: 500px;
+  height: 1px;
 }
